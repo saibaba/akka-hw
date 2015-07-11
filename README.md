@@ -21,3 +21,5 @@ $ lein repl
 * https://github.com/daveray/clojak/blob/master/src/clojak/core.clj
 * http://www.typesafe.com/activator/template/hello-akka?_ga=1.222290776.1168684417.1436224761#code/src/main/java/HelloAkkaJava.java
 * http://kotka.de/blog/2010/03/proxy_gen-class_little_brother.html
+* http://clojure.github.io/clojure/clojure.core-api.html#clojure.core/gen-class
+* https://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html
