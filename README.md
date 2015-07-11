@@ -1,7 +1,11 @@
 # akka-hw
 
-A Clojure library designed to ... well, that part is up to you.
-Make  sure there is no main in project.clj otherwise lein repl does not work only lein run works
+Learning to use Akka framework from within Clojure.
+This is an attempt to reimplement of Akka Hello World official tutorial in Clojure.
+
+* messages.clj - contains messages
+* actors - contains actor code and their onReceive handlers
+* hello.clj - main driver
 
 ## Usage
 
